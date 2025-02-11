@@ -1,7 +1,6 @@
 ## [**Відео: Листинг, бренд товару, BSR** 🎥](https://drive.google.com/file/d/1r-I-sqDODnVOeqSJYJ3nG9blE42_663T/view?usp=drive_link)
 
 <iframe src="https://drive.google.com/file/d/1r-I-sqDODnVOeqSJYJ3nG9blE42_663T/preview" width="700" height="360"></iframe>
-
 ### 1. **Що таке Листинг?**
 
 Листинг – це сторінка товару на Amazon, де покупець може знайти всю інформацію про продукт.
@@ -47,7 +46,7 @@
 На сторінці товару можна побачити його шлях від загальної до конкретної категорії. Наприклад:  
 
 📌 Home & Kitchen → Storage & Organization → Closet Organizers → Hanging Shelves
-	![[Pasted image 20250206092916.png]]
+![[Pasted image 20250206092916.png]]
 
 Ця система допомагає швидко орієнтуватися в асортименті Amazon і знаходити потрібні товари.
 
