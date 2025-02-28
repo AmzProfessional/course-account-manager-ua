@@ -80,7 +80,4 @@
 
 ### Примітки для Obsidian  
 - **Теги**: #ASIN, #FNSKU, #SKU, #ListingCodes.  
-- **Зв’язки**: Пов’яжіть із Частиною 1 через Catalog і Частиною 2 через Inventory Performance.  
-- **Додайте зображення**: Приклад Parent/Child ASIN або етикетки FNSKU.  
-
-Якщо потрібні зміни чи більше деталей, скажи!
+- **Додати зображення**: Приклад Parent/Child ASIN або етикетки FNSKU.  
