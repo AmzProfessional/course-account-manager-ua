@@ -2,6 +2,7 @@
 <iframe src="https://drive.google.com/file/d/1OjMY7EeBaO0E7tbGvAg-Hn2jNZj0-nyV/preview" width="700" height="360"></iframe>
 
 ## 1. Що таке FBM і як це працює?
+
    > [!tip]
    > **FBM (Fulfillment by Merchant) — це модель, за якою продавець самостійно керує всіма процесами, пов'язаними з обробкою замовлень, зберіганням, упаковкою та доставкою товарів.**
 

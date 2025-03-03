@@ -1,6 +1,6 @@
 ## [**Відео: Листинг, бренд товару, BSR** 🎥](https://drive.google.com/file/d/1r-I-sqDODnVOeqSJYJ3nG9blE42_663T/view?usp=drive_link)
 
-<iframe src="https://drive.google.com/file/d/1r-I-sqDODnVOeqSJYJ3nG9blE42_663T/preview" width="700" height="360"></iframe>
+<iframe src="https://drive.google.com/file/d/1r-I-sqDODnVOeqSJYJ3nG9blE42_663T/preview" width="620" height="360"></iframe>
 
 
    > [!note]
