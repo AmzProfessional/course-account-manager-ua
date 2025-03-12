@@ -29,6 +29,12 @@
 
   > [!danger]  **ODR вище 1% загрожує санкціями чи блокуванням.**
 
+- **Customer Service Performance**: сюди входить ODR (Order Defect Rate).
+- **Policy Compliance**: тут відображаються критичні повідомлення від Amazon, через які можуть заблокувати акаунт.
+- **Shipping Performance**: тут статистика, як ми працюємо з логістикою.
+
+![[Pasted image 20250312124051.png]]
+
 ## **3. Inventory Performance Index (IPI)**
 
 **IPI** — це показник ефективності управління запасами на FBA:  
