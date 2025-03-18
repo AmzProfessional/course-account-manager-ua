@@ -1,10 +1,9 @@
-## [**Відео: Листинг, бренд товару, BSR** 🎥](https://drive.google.com/file/d/1r-I-sqDODnVOeqSJYJ3nG9blE42_663T/view?usp=drive_link)
+## [**Відео: Листинг, бренд товару, BSR** 🎥](https://www.youtube.com/watch?v=wc0cTxjSloQ&list=PLwKqMJF211WKgK4CyiZ1OkmqRyZFdMzd8&index=2)
 
-<iframe src="https://drive.google.com/file/d/1r-I-sqDODnVOeqSJYJ3nG9blE42_663T/preview" width="620" height="360"></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/wc0cTxjSloQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
    > [!note] **Листинг – це сторінка товару на Amazon, де покупець може знайти всю інформацію про продукт.**
-
 
 
 ![[Pasted image 20250206093139.png]]
