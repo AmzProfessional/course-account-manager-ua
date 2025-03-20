@@ -1,6 +1,6 @@
-## [**Відео: Коди листингів на Amazon 🎥**](посилання_на_відео)
+### [**Відео: Коди листингів на Amazon** 🎥](https://www.youtube.com/watch?v=p8Hp6fMGcxo&list=PLwKqMJF211WJoZNaxFXpkJaFJEGIjZcaH&index=3)
 
-`<iframe src="посилання_на_відео" width="700" height="360"></iframe>`
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/p8Hp6fMGcxo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Вступ**
 

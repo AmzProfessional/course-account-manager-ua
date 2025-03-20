@@ -1,6 +1,6 @@
-## [**Відео: Робота з Amazon Seller Central - Інтерфейс і Метрики 🎥**](посилання_на_відео)
+### [**Відео: Робота з Amazon Seller Central - Інтерфейс і Метрики** 🎥](https://www.youtube.com/watch?v=wBfxBw4mtKc&list=PLwKqMJF211WJoZNaxFXpkJaFJEGIjZcaH&index=1)
 
-`<iframe src="посилання_на_відео" width="700" height="360"></iframe>`
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/wBfxBw4mtKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Вступ**
 
@@ -10,7 +10,6 @@
    > - Цей розділ містить актуальну інформацію про заборонені товари, категорії з обмеженнями та вимоги до певних продуктів (наприклад, сертифікати чи дозволи).
 
 ## **1. Інтерфейс Amazon Seller Central**
-
 
    > [!info] **Amazon Seller Central — це веб-платформа для продавців, яка дозволяє управляти бізнесом на Amazon. Вона включає інструменти для додавання товарів, обробки замовлень, налаштування реклами та аналізу даних.**
 

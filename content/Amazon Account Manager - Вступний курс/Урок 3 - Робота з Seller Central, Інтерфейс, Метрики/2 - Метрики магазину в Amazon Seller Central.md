@@ -1,6 +1,7 @@
-## [**Відео: Метрики магазину в Amazon Seller Central 🎥**](посилання_на_відео)
+### [**Відео: Метрики магазину в Amazon Seller Central** 🎥](https://www.youtube.com/watch?v=BA65eJ4W3Wo&list=PLwKqMJF211WJoZNaxFXpkJaFJEGIjZcaH&index=2)
 
-`<iframe src="посилання_на_відео" width="700" height="360"></iframe>`
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/BA65eJ4W3Wo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **Вступ**
 
 Познайомимося з **Метриками в Amazon Seller Central** — показники, які визначають успіх вашого магазину. Amazon має високі стандарти до продавців, і погані метрики можуть знизити продажі, рейтинг або навіть призвести до блокування аккаунта. Ми розглянемо ключові метрики, їх значення та як їх покращувати. Почнемо!

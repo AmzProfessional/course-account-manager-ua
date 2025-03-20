@@ -1,6 +1,7 @@
-## [**Відео: Статуси листингів на Amazon 🎥**](посилання_на_відео)
+### [**Відео: Статуси листингів на Amazon** 🎥](https://www.youtube.com/watch?v=SE0HRYWJ2OI&list=PLwKqMJF211WJoZNaxFXpkJaFJEGIjZcaH&index=4)
 
-`<iframe src="посилання_на_відео" width="700" height="360"></iframe>`
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/SE0HRYWJ2OI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **Вступ**
 
 Сьогодні ми розберемо **статуси листингів** на Amazon — від чого залежить видимість ваших товарів і як їхній стан впливає на продажі. Неправильний статус може зупинити продажі чи зашкодити репутації, тому важливо знати, як їх контролювати. Розпочнімо!

@@ -1,5 +1,6 @@
-## [**Відео: Що таке Referral Fee і як вплив на прибуток** 🎥](https://drive.google.com/file/d/1ODcp_1FB9NHGhxUSo4ouVSyKd2TaE8Rm/view?usp=sharing)
-<iframe src="https://drive.google.com/file/d/1ODcp_1FB9NHGhxUSo4ouVSyKd2TaE8Rm/preview" width="700" height="360"></iframe>
+### [**Відео: Що таке Referral Fee і як вплив на прибуток** 🎥](https://www.youtube.com/watch?v=AXbyLJSZjtw&list=PLwKqMJF211WK5YlC1bX2W1dHX-8KvO_oo&index=1)
+
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/AXbyLJSZjtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Вступ**
 У цьому уроці ми розглянемо, що таке комісії Amazon, та як вони впливають на прибутковість продажів на Amazon і чому важливо враховувати її при розрахунку рентабельності товару.
