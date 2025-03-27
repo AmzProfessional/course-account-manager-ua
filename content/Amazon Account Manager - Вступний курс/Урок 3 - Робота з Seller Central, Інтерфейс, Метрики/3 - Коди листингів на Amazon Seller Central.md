@@ -1,6 +1,7 @@
 ### [**Відео: Коди листингів на Amazon** 🎥](https://www.youtube.com/embed/CfsHDUQjpb4)
 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/CfsHDUQjpb4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **Вступ**
 
 Сьогодні ми розберемо **коди листингів** на Amazon — інструменти, які допомагають ідентифікувати товари, управляти запасами та підвищувати ефективність роботи магазину. Правильне розуміння цих кодів критично важливе для видимості товарів і продажів. Погнали!
