@@ -1,6 +1,6 @@
-### [**Відео: Робота з Amazon Seller Central - Інтерфейс і Метрики** 🎥](https://www.youtube.com/watch?v=wBfxBw4mtKc&list=PLwKqMJF211WJoZNaxFXpkJaFJEGIjZcaH&index=1)
+### [**Відео: Робота з Amazon Seller Central - Інтерфейс і Метрики** 🎥](https://www.youtube.com/embed/yNnU_1UvVf0)
 
-<iframe width="100%" height="360" src="https://www.youtube.com/embed/wBfxBw4mtKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/yNnU_1UvVf0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Вступ**
 

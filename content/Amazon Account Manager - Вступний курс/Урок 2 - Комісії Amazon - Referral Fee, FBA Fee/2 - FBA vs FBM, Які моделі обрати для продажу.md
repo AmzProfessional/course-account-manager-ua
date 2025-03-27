@@ -1,6 +1,6 @@
-### [**У цьому відео ми детально розглянемо два способи виконання замовлень на Amazon: Fulfillment by Merchant (FBM) і Fulfillment by Amazon (FBA)** 🎥](https://www.youtube.com/watch?v=KVsmQyRSkO8&list=PLwKqMJF211WK5YlC1bX2W1dHX-8KvO_oo&index=2)
+### [**У цьому відео ми детально розглянемо два способи виконання замовлень на Amazon: Fulfillment by Merchant (FBM) і Fulfillment by Amazon (FBA)** 🎥](https://www.youtube.com/embed/krB6-Vi5O5A)
 
-<iframe width="100%" height="360" src="https://www.youtube.com/embed/KVsmQyRSkO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/krB6-Vi5O5A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 1. Що таке FBM і як це працює?
 

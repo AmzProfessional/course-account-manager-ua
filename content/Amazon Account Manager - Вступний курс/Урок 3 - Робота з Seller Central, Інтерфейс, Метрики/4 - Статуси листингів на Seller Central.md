@@ -1,6 +1,6 @@
-### [**Відео: Статуси листингів на Amazon** 🎥](https://www.youtube.com/watch?v=SE0HRYWJ2OI&list=PLwKqMJF211WJoZNaxFXpkJaFJEGIjZcaH&index=4)
+### [**Відео: Статуси листингів на Amazon** 🎥](https://www.youtube.com/embed/HPj63cayVkw)
 
-<iframe width="100%" height="360" src="https://www.youtube.com/embed/SE0HRYWJ2OI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/HPj63cayVkw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Вступ**
 
