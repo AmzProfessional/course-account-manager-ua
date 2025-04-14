@@ -1,6 +1,6 @@
-### [**Відео: Метрики магазину в Amazon Seller Central** 🎥](https://www.youtube.com/embed/t-frLPXI2Y8E8)
+### [**Відео: Метрики магазину в Amazon Seller Central** 🎥](https://www.youtube.com/embed/frLPXI2Y8E8)
 
-<iframe width="100%" height="360" src="https://www.youtube.com/embed/t-frLPXI2Y8E8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/frLPXI2Y8E8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Вступ**
 
