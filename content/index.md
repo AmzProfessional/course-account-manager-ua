@@ -1,6 +1,6 @@
 # **Ласкаво просимо до вступного курсу компанії AmzProfessional!**
 
-### Русскоязычная версия: [Account Manager вступительный курс](https://andriiedtech.github.io/course-account-manager-ru/)
+### Русскоязычная версия: [Account Manager вступительный курс](https://amzprofessional.github.io/course-account-manager-ru/)
 
 ### Ми раді, що ви зацікавлені у вакансії **Account Manager** в компанії **AmzProfessional** і готові пройти перший етап навчання. Цей курс допоможе вам ознайомитися з основами роботи на маркетплейсі Amazon та нашою компанією. 
 
