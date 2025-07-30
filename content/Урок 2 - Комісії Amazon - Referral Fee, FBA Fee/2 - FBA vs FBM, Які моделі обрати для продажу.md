@@ -77,7 +77,7 @@
     
 - **Крок 7:** Звірте ціну вашого товару з умовами комісії, щоб визначити точний відсоток, після вже розрахуйте комісію.
 
-- Для кожної категорії (наприклад, Electronics, Books, Home & Kitchen) комісії можуть варіюватися від 8% до 20%. Точні значення можна перевірити на [Amazon Seller Central](https://sellercentral.amazon.com/help/hub/reference/external/GTG4BAWSY39Z98Z3?ref_=revecalc).
+- Для кожної категорії (наприклад, Electronics, Books, Home & Kitchen) комісії можуть варіюватися від 8% до 20%. Точні значення можна перевірити на [Amazon Referral fees](https://sellercentral.amazon.com/help/hub/reference/external/GTG4BAWSY39Z98Z3?ref_=revecalc).
 
 > [!tip] **Важливо:** Завчати відсотки комісій не потрібно. Amazon періодично оновлює ставки, тому перед встановленням ціни завжди перевіряйте актуальну інформацію про комісії для вашої категорії на Seller Central.
 
