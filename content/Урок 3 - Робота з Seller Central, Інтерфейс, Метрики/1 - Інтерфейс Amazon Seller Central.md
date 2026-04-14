@@ -1,4 +1,4 @@
-### [**Відео: Робота з Amazon Seller Central - Інтерфейс і Метрики** 🎥](https://www.youtube.com/embed/abCIwgInA5I)
+### [**Відео: Робота з Amazon Seller Central - Інтерфейс і Метрики** 🎥](https://youtu.be/abCIwgInA5I)
 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/abCIwgInA5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

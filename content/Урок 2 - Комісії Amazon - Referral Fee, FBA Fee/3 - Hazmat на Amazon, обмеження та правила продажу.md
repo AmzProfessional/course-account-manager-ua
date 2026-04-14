@@ -1,4 +1,4 @@
-### [**Відео: Як працювати з Hazmat-товарами на Amazon FBA** 🎥](https://www.youtube.com/embed/g0j3AeS-N_Y)
+### [**Відео: Як працювати з Hazmat-товарами на Amazon FBA** 🎥](https://youtu.be/g0j3AeS-N_Y)
 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/g0j3AeS-N_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

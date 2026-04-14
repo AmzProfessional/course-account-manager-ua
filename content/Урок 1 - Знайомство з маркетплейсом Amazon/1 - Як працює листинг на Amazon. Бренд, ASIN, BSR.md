@@ -1,4 +1,4 @@
-## [**Відео: Листинг, бренд товару, BSR** 🎥](https://www.youtube.com/embed/pzsUlBWVF7k)
+## [**Відео: Листинг, бренд товару, BSR** 🎥](https://youtu.be/pzsUlBWVF7k)
 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/pzsUlBWVF7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

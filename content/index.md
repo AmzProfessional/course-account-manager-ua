@@ -6,7 +6,7 @@
 
 >[!quote] Після завершення цього курсу ви отримаєте всі необхідні знання для ефективної роботи в команді і розвитку на посаді Account Manager.
 
-## [**🎥 Відео про Amazon**](https://www.youtube.com/embed/E46wx74_5lM)
+## [**🎥 Відео про Amazon**](https://youtu.be/E46wx74_5lM)
 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/E46wx74_5lM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

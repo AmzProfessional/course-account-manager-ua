@@ -1,4 +1,4 @@
-### [**Відео: Коди листингів на Amazon** 🎥](https://www.youtube.com/embed/CfsHDUQjpb4)
+### [**Відео: Коди листингів на Amazon** 🎥](https://youtu.be/HN6etRvofUk)
 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/HN6etRvofUk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
